@@ -1,0 +1,6 @@
+c:\users\rai\documents\visual studio 2017\Projects\QueryAndMethodSyntax\QueryAndMethodSyntax\bin\Debug\QueryAndMethodSyntax.exe.config
+c:\users\rai\documents\visual studio 2017\Projects\QueryAndMethodSyntax\QueryAndMethodSyntax\bin\Debug\QueryAndMethodSyntax.exe
+c:\users\rai\documents\visual studio 2017\Projects\QueryAndMethodSyntax\QueryAndMethodSyntax\bin\Debug\QueryAndMethodSyntax.pdb
+c:\users\rai\documents\visual studio 2017\Projects\QueryAndMethodSyntax\QueryAndMethodSyntax\obj\Debug\QueryAndMethodSyntax.csprojResolveAssemblyReference.cache
+c:\users\rai\documents\visual studio 2017\Projects\QueryAndMethodSyntax\QueryAndMethodSyntax\obj\Debug\QueryAndMethodSyntax.exe
+c:\users\rai\documents\visual studio 2017\Projects\QueryAndMethodSyntax\QueryAndMethodSyntax\obj\Debug\QueryAndMethodSyntax.pdb
